@@ -1,0 +1,1 @@
+* Build.job [31.1](https://travis-ci.org/HarvestMoon/HarvestMoon/jobs/99242738), from commit [8214dd4](https://github.com/HarvestMoon/HarvestMoon/commit/31), built on Tue, 29 Dec 2015 11:49:08 +0000: [harvestmoon-0.0.2-ci31.1-8214dd4.jar](https://github.com/HarvestMoon/CIBuilds/releases/download/ci31.1/harvestmoon-0.0.2-ci31.1-8214dd4.jar)
